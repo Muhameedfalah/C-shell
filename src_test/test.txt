@@ -1,0 +1,56 @@
+                  aSPY//YASa
+             apyyyyCY//////////YCa          /
+            sY//////YSpcs scpCY//Pp         / Welcome to myShell
+  ayp ayyyyyyySCP//Pp           syY//C      / Version 2.4.3
+  AYAsAYYYYYYYY///Ps              cY//S     /
+          pCCCCY//p          cSSps y//Y     / https://github.com/<user>
+          SPPPP///a          pP///AC//Y     /
+                A//A           cyP////C     / Have fun!
+                p///Ac            sC///a    /
+                P////YCpc           A//A    / Craft packets like it is your last
+            scccccp///pSP///p       p//Y    / day on earth.
+           sY/////////y   caa       S//P    /                       -- Lao-Tze
+            cayCyayP//Ya           pY/Ya    /
+             sY/PsY////YCc        aC//Yp
+              sc sccaCY//PCypaapyCP//YSs
+                      spCPY//////YPSps
+                           ccaacs
+                                          using
+
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali
+[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali/test[0m$ 
+Command not found: pwd
+Type 'help' to see a list of available commands.
+Trying to run system command...
+/home/nasimstg/Desktop/isreali/test
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali/test[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build const expected.txt instructions.txt Makefile res src test test.sh test.txt
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build  const expected.txt instructions.txt Makefile res src test test.sh test.txt
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build const expected.txt instructions.txt Makefile res src test test.sh test.txt
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+there are some 
+but the word i need
+isn't here
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$
+but the word i need 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+Hello World 
+[0;32m[1mnasimstg@[0;32m[1mub-vm:[0;34m[1m~/Desktop/isreali[0m$ 
+testing

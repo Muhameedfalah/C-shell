@@ -1,0 +1,59 @@
+                  aSPY//YASa
+             apyyyyCY//////////YCa          /
+            sY//////YSpcs scpCY//Pp         / Welcome to myShell
+  ayp ayyyyyyySCP//Pp           syY//C      / Version 2.4.3
+  AYAsAYYYYYYYY///Ps              cY//S     /
+          pCCCCY//p          cSSps y//Y     / https://github.com/<user>
+          SPPPP///a          pP///AC//Y     /
+                A//A           cyP////C     / Have fun!
+                p///Ac            sC///a    /
+                P////YCpc           A//A    / Craft packets like it is your last
+            scccccp///pSP///p       p//Y    / day on earth.
+           sY/////////y   caa       S//P    /                       -- Lao-Tze
+            cayCyayP//Ya           pY/Ya    /
+             sY/PsY////YCc        aC//Yp
+              sc sccaCY//PCypaapyCP//YSs
+                      spCPY//////YPSps
+                           ccaacs
+                                          using
+nasimstg@ub-vm:~/Desktop/isreali$ cd test
+nasimstg@ub-vm:~/Desktop/isreali/test$ pwd
+
+Command not found: pwd
+Type 'help' to see a list of available commands.
+Trying to run system command...
+/home/nasimstg/Desktop/isreali/test
+nasimstg@ub-vm:~/Desktop/isreali/test$ cd ..
+nasimstg@ub-vm:~/Desktop/isreali$ cp test/toCopy.txt res/copied.txt
+nasimstg@ub-vm:~/Desktop/isreali$ ls res
+
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build  const  Makefile  res  src  test  test.sh  test.txt
+nasimstg@ub-vm:~/Desktop/isreali$ mv test/toMove.txt res/moved.txt
+nasimstg@ub-vm:~/Desktop/isreali$ ls res
+
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build  const  Makefile  res  src  test  test.sh  test.txt
+nasimstg@ub-vm:~/Desktop/isreali$ delete test/toRemove.txt
+nasimstg@ub-vm:~/Desktop/isreali$ ls test
+
+Command not found: ls
+Type 'help' to see a list of available commands.
+Trying to run system command...
+build  const  Makefile  res  src  test  test.sh  test.txt
+nasimstg@ub-vm:~/Desktop/isreali$ read test/file
+there are some 
+but the word i need
+isn't here
+nasimstg@ub-vm:~/Desktop/isreali$ read test/file | grep word
+but the word i need
+nasimstg@ub-vm:~/Desktop/isreali$ echo "Hello World" > res/h.txt
+nasimstg@ub-vm:~/Desktop/isreali$ read res/h.txt
+Hello World 
+nasimstg@ub-vm:~/Desktop/isreali$ exit testing
+testing
+nasimstg@ub-vm:~/Desktop/isreali$ 
