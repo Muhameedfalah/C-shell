@@ -4,10 +4,10 @@ void printWelcome()
 {
     printf("\n                  aSPY//YASa\n");
     printf("             apyyyyCY//////////YCa          /\n");
-    printf("            sY//////YSpcs scpCY//Pp         / Welcome to myShell\n");
+    printf("            sY//////YSpcs scpCY//Pp         / Welcome to myShell Muhameed falah\n");
     printf("  ayp ayyyyyyySCP//Pp           syY//C      / Version 2.4.3\n");
     printf("  AYAsAYYYYYYYY///Ps              cY//S     /\n");
-    printf("          pCCCCY//p          cSSps y//Y     / https://github.com/<user>\n");
+    printf("          pCCCCY//p          cSSps y//Y     / https://github.com/Muhameedfalah\n");
     printf("          SPPPP///a          pP///AC//Y     /\n");
     printf("                A//A           cyP////C     / Have fun!\n");
     printf("                p///Ac            sC///a    /\n");
